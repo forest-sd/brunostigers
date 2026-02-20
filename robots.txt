@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://brunostigers.pages.dev/sitemap.xml
